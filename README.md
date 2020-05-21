@@ -10,7 +10,7 @@
 </p>
 </p>
 
-Demo: https://natural-language-understanding-code-pattern.ng.bluemix.net/
+Check out my app: https://nlu-nodejs-abu.eu-gb.mybluemix.net/
 
 ### Flow
 
